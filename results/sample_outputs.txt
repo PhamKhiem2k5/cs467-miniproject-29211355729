@@ -1,0 +1,48 @@
+=================================================================
+CS467 MINI-PROJECT (MP-C07): INDOOR PLANT & GARDENING RECOMMENDER
+Student: Pham Ngo Van Khiem | ID: 29211355729 | Section: CS467C
+=================================================================
+Dataset Summary: 40 Plants, 15 Gardeners, 300 Ratings (Matrix Sparsity: 50.0%)
+
+--- TEST CASE 1: ROOM-CONDITION QUERY ---
+Query: 'low light apartment desk plant easy watering for beginners'
+item_id             plant_name  score                               matched_keywords sunlight_level care_difficulty
+    P11           Lucky Bamboo 0.5094 low light, beginner, easy watering, desk plant            low        beginner
+    P07      Chinese Evergreen 0.5051 low light, beginner, easy watering, desk plant            low        beginner
+    P01            Snake Plant 0.4805 low light, beginner, easy watering, desk plant            low        beginner
+    P09 Heartleaf Philodendron 0.4444 low light, beginner, easy watering, desk plant            low        beginner
+    P25  Peperomia Obtusifolia 0.4090 low light, beginner, easy watering, desk plant            low        beginner
+
+--- TEST CASE 2: SIMILAR-PLANT TEST (ITEM-TO-ITEM) ---
+Target Gardener: U01 | Highest-Rated Plant: P01 (Snake Plant, Rating: 5/5)
+item_id           plant_name  score                               matched_keywords sunlight_level care_difficulty
+    P19  Echeveria Succulent 0.3123     beginner, easy watering, desk plant, every           high        beginner
+    P29   Money Tree Pachira 0.3113 low light, beginner, easy watering, desk plant         medium        beginner
+    P26 Fittonia Nerve Plant 0.3020          low light, desk plant, needs, thrives            low    intermediate
+    P20      Haworthia Zebra 0.2926 beginner, easy watering, desk plant, apartment         medium        beginner
+    P08          Parlor Palm 0.2858  low light, beginner, apartment, air purifying            low        beginner
+
+--- TEST CASE 3: COLD-START TEST (NEW PLANT P41 WITH NO RATINGS) ---
+Added Plant: P41 - Mini Velvet Fern (0 ratings, text description only)
+Query: 'low light apartment desk plant easy watering for beginners'
+item_id                             plant_name  score                               matched_keywords sunlight_level care_difficulty
+    P41 Mini Velvet Fern (New Nursery Arrival) 0.6200 low light, beginner, easy watering, desk plant            low        beginner
+    P07                      Chinese Evergreen 0.4396 low light, beginner, easy watering, desk plant            low        beginner
+    P11                           Lucky Bamboo 0.4382 low light, beginner, easy watering, desk plant            low        beginner
+    P01                            Snake Plant 0.4263 low light, beginner, easy watering, desk plant            low        beginner
+    P09                 Heartleaf Philodendron 0.3956 low light, beginner, easy watering, desk plant            low        beginner
+
+--- PERSONALIZED HYBRID RECOMMENDATIONS FOR U01 ---
+item_id         plant_name  score  pred_rating                                  matched_keywords sunlight_level care_difficulty
+    P29 Money Tree Pachira 0.8004         4.63  low light, medium light, beginner, easy watering         medium        beginner
+    P08        Parlor Palm 0.7989         4.69          low light, beginner, apartment, pet safe            low        beginner
+    P10 Dracaena Marginata 0.7360         4.39  low light, medium light, beginner, easy watering         medium        beginner
+    P04       Spider Plant 0.7227         4.67  low light, medium light, beginner, easy watering         medium        beginner
+    P20    Haworthia Zebra 0.7213         4.56 medium light, beginner, easy watering, desk plant         medium        beginner
+
+--- OFFLINE EVALUATION METRICS (80/20 SPLIT) ---
+Popularity Baseline Precision@5 : 0.1467
+NLP Content-Based Precision@5   : 0.3067
+Hybrid (NLP+CF) Precision@5     : 0.3733
+Item-CF Rating Prediction RMSE  : 0.9268 | MAE: 0.6658
+Charts saved to: results/data_distribution.png & results/model_comparison.png

@@ -1,0 +1,301 @@
+user_id,item_id,rating,grower_tip
+U01,P01,5,Survives in my dark apartment corner with almost zero watering.
+U01,P02,5,Best low light desk plant for busy beginners who forget to water.
+U01,P03,4,Grows super fast on my bookshelf even with very little sunlight.
+U01,P05,4,Drops its leaves dramatically when thirsty so watering is easy to time.
+U01,P06,5,Truly indestructible in a shaded apartment hallway.
+U01,P07,4,Beautiful patterned leaves that do not need bright windows.
+U01,P09,5,My favorite easy watering trailing plant for my apartment desk.
+U01,P11,4,Lives happily in a glass jar of water right next to my laptop.
+U01,P25,5,Compact and thrives in low light without needing frequent watering.
+U01,P32,5,Adds great color to a dim bedroom with very easy weekly care.
+U01,P33,4,Handles low light well just keep soil slightly moist.
+U01,P36,4,Very forgiving office plant when watered once a week.
+U01,P38,5,Great small shelf plant for low light apartment living.
+U01,P15,1,Dropped all its leaves because my apartment lacks bright sunlight.
+U01,P17,2,Stretched out badly without a sunny south facing window.
+U01,P23,2,Needs way too much direct sunlight for my small apartment.
+U01,P24,1,Shriveled up quickly in low light conditions.
+U01,P37,1,Lost all its bright colors in a dim room.
+U01,P12,2,Too fussy about humidity and constant watering for a beginner.
+U01,P13,2,Leaves turned brown on the edges without a humidifier.
+U02,P04,5,Completely pet safe and my cat ignores the hanging leaves.
+U02,P06,4,Great low maintenance plant that is safe around dogs.
+U02,P08,5,Brings a tropical feel to my apartment and is non toxic to pets.
+U02,P12,4,Loves the steam in my bathroom and safe for my curious cat.
+U02,P13,4,Gorgeous foliage and peace of mind knowing it is pet safe.
+U02,P20,5,Cute tiny desk succulent that is totally safe for pets.
+U02,P22,5,My dog sleeps right under this palm and it cleans the air.
+U02,P25,5,Easy watering desk plant that I do not have to hide from pets.
+U02,P26,4,Looks amazing in a small terrarium on my work desk.
+U02,P27,4,Blooms nonstop on my kitchen windowsill and safe for cats.
+U02,P29,5,Sturdy braided trunk looks great on my office desk and pet safe.
+U02,P30,5,Super easy watering every two weeks and completely non toxic.
+U02,P31,5,Love watching the leaves fold up every night and safe for cats.
+U02,P34,5,Waxy leaves are tough and pet friendly with easy watering.
+U02,P39,5,My favorite desk plant so easy to propagate and safe for pets.
+U02,P05,1,Had to give it away because lilies are toxic to cats.
+U02,P33,1,Not safe for pets that like to chew on indoor leaves.
+U02,P03,2,Nice vine but had to hang it high out of reach from my cat.
+U02,P15,2,Very picky about light and watering schedules.
+U02,P37,2,Way too demanding for normal apartment humidity.
+U03,P14,5,Huge split leaves grow fast in my bright sunny living room.
+U03,P15,4,Thrives right next to my sunny south window with consistent watering.
+U03,P17,5,Loves direct sun on the windowsill and needs minimal watering.
+U03,P18,5,Grew into a mini tree on my sunny balcony desk.
+U03,P19,5,Keeps its tight rosette shape in bright direct sunlight.
+U03,P22,4,Fills the bright corner of my apartment beautifully.
+U03,P23,5,Giant tropical leaves look like a resort in a sunny room.
+U03,P24,5,Cascades beautifully in a bright sunny window when watered sparingly.
+U03,P30,5,Drought tolerant and loves soaking up bright afternoon sun.
+U03,P34,4,Bloomed for the first time after moving it to bright indirect light.
+U03,P35,4,Glossy red flowers last for months in bright filtered light.
+U03,P37,4,Vibrant red and yellow colors pop in direct sunlight.
+U03,P39,5,Grows symmetrical round leaves in bright indirect light.
+U03,P40,5,Rebloomed twice near my bright east facing window.
+U03,P01,3,Survives fine in bright light too just needs slightly more water.
+U03,P02,3,Very easy care though it grows slowly.
+U03,P06,2,A bit boring compared to bright light tropical plants.
+U03,P11,2,Leaves yellowed when placed in too much direct sun.
+U03,P26,2,Crisped up quickly in my bright dry room.
+U03,P31,2,Leaves faded in strong direct sunlight.
+U04,P01,5,Impossible to kill even when I travel for two weeks.
+U04,P02,5,Water once a month and it still looks glossy and healthy.
+U04,P09,5,Great beginner desk plant that tells you clearly when it is thirsty.
+U04,P10,4,Tolerates low light apartment corners and infrequent watering.
+U04,P11,5,Zero soil mess on my study desk and super easy for beginners.
+U04,P16,5,Sturdy beginner plant that forgives missed waterings.
+U04,P17,4,Put it on a sunny sill and forget about watering for weeks.
+U04,P18,5,Very easy succulent for a beginner desk setup.
+U04,P19,4,Cute small succulent that needs almost zero attention.
+U04,P20,5,Best small succulent for an apartment desk with easy watering.
+U04,P25,5,Thick leaves hold water well so beginner mistakes are forgiven.
+U04,P28,4,Grows like crazy with simple weekly watering.
+U04,P29,5,Easy care desk plant that handles office air conditioning.
+U04,P32,5,Low light and easy watering make this a top beginner pick.
+U04,P36,4,Very reliable beginner plant for apartment living.
+U04,P38,4,Compact and easy watering on my bookshelf.
+U04,P12,1,Died within a month because I forgot to mist it daily.
+U04,P13,1,Too sensitive to tap water and low apartment humidity.
+U04,P15,1,Dropped leaves every time I moved the pot slightly.
+U04,P37,1,Way too difficult for a beginner gardener.
+U05,P04,5,Produces tons of baby plants and cleans bedroom air.
+U05,P05,5,White flowers bloom even in low light apartment bedrooms.
+U05,P07,5,Super reliable air purifying plant for dim apartments.
+U05,P08,4,Compact palm that fits nicely next to my apartment sofa.
+U05,P10,5,Tall sleek plant that takes up very little floor space.
+U05,P14,5,Makes my small apartment feel like an indoor jungle.
+U05,P16,5,Dark burgundy leaves look super modern in an apartment.
+U05,P21,4,Great trailing plant for a cool apartment windowsill.
+U05,P28,5,Colorful trailing vines brighten up high apartment shelves.
+U05,P31,5,Stunning patterned leaves that thrive in apartment shade.
+U05,P32,5,Best low light colorful plant for apartments without much sun.
+U05,P33,4,Fills empty apartment corners quickly with lush green leaves.
+U05,P35,4,Long lasting red blooms on my apartment coffee table.
+U05,P38,5,Perfect miniature trailing vine for small apartment desks.
+U05,P01,4,Classic apartment plant that handles neglect easily.
+U05,P03,5,Easiest hanging plant for any apartment room.
+U05,P15,2,Too finicky for a small apartment with dry winter air.
+U05,P23,2,Grew way too wide for a compact apartment living room.
+U05,P24,2,Hard to keep alive without intense direct sunlight.
+U05,P37,1,Dropped all its leaves in normal apartment conditions.
+U06,P05,5,Thrives in my humid bathroom with low indirect light.
+U06,P12,5,Lush green fronds love bathroom steam and frequent watering.
+U06,P13,5,Huge round leaves look amazing when given extra humidity.
+U06,P14,5,Fenestrated leaves grow huge in a warm humid room.
+U06,P21,4,Loves regular misting and cooler indoor temperatures.
+U06,P22,5,Acts as a natural humidifier and loves moist soil.
+U06,P26,5,Dramatic pink veins thrive in high humidity terrariums.
+U06,P27,4,Bottom watering keeps the fuzzy leaves healthy and blooming.
+U06,P31,5,Prayer plant thrives next to my humidifier in low light.
+U06,P35,5,Tropical flowers last for months with good room humidity.
+U06,P40,5,Loves humid air and weekly bark soaking.
+U06,P04,4,Tips stay green when given decent indoor humidity.
+U06,P08,4,Appreciates occasional misting in low light rooms.
+U06,P17,1,Rotted quickly because my bathroom is too humid and dim.
+U06,P18,2,Succulents hate high humidity and low light.
+U06,P19,1,Overwatered easily in a damp environment.
+U06,P24,1,Pearls turned mushy in humid low light conditions.
+U06,P30,2,Prefers dry sunny spots over humid bathrooms.
+U06,P01,3,Okay plant but prefers drier soil than my other tropicals.
+U06,P02,3,Does not need any humidity at all.
+U07,P01,5,Stands tall on my work desk and needs almost zero care.
+U07,P02,5,Survives under office LED lights with monthly watering.
+U07,P09,5,Looks great trailing down the side of my computer desk.
+U07,P11,5,Compact lucky bamboo brings greenery to a tiny desk.
+U07,P18,4,Great sunny windowsill desk succulent for beginners.
+U07,P19,5,Fits in a tiny pot right beside my keyboard.
+U07,P20,5,Best low maintenance desk succulent for medium light offices.
+U07,P25,5,Compact baby rubber plant ideal for small apartment desks.
+U07,P26,4,Brightens up my study desk with colorful patterned leaves.
+U07,P29,5,Popular office desk plant that is super easy to water.
+U07,P38,4,Miniature vine fits neatly on a small desk shelf.
+U07,P39,5,Round coin leaves look adorable on a bright work desk.
+U07,P40,4,Adds an elegant touch to my office desk with minimal effort.
+U07,P03,4,Easy desk plant that tolerates office air conditioning.
+U07,P07,4,Compact enough for a desk corner in low light.
+U07,P14,2,Way too massive to fit anywhere near a desk.
+U07,P22,2,Takes up way too much floor space for a small room.
+U07,P23,1,Giant floor plant not suitable for desk gardening.
+U07,P15,1,Too tall and sensitive for an office desk environment.
+U07,P37,2,Needs more direct sun than an indoor desk provides.
+U08,P05,5,Elegant white blooms brighten up low light rooms easily.
+U08,P27,5,Constant purple blooms on my kitchen windowsill.
+U08,P34,5,Waxy vines eventually produce gorgeous scented star flowers.
+U08,P35,5,Red heart shaped flowers last longer than cut bouquets.
+U08,P40,5,Easy indoor orchid that blooms for months with weekly soaking.
+U08,P13,4,Decorative patterned leaves look just as pretty as flowers.
+U08,P14,4,Statement foliage plant for bright living spaces.
+U08,P28,4,Purple striped leaves add instant color to hanging baskets.
+U08,P31,4,Red undersides on the leaves look stunning at night.
+U08,P32,5,Pink foliage brings color to low light apartment corners.
+U08,P37,4,Colorful leaves look amazing in a bright sunny window.
+U08,P39,4,Unique round leaves make it a great decorative gift plant.
+U08,P04,4,Little white flowers on the runners are a nice bonus.
+U08,P03,3,Nice green vine though it does not flower indoors.
+U08,P06,2,Very plain dark green leaves without much visual flair.
+U08,P01,3,Great beginner plant though very simple looking.
+U08,P02,3,Reliable green foliage but not a flowering plant.
+U08,P10,3,Good structural plant for empty corners.
+U08,P12,3,Lush green fronds for humid spaces.
+U08,P16,4,Glossy dark leaves look very polished in living rooms.
+U09,P01,5,Best air purifying plant for bedrooms and low light apartments.
+U09,P02,5,Zero fuss office plant that tolerates low light and dry air.
+U09,P03,5,Trails down my apartment bookcase with minimal watering.
+U09,P04,5,Removes indoor toxins and grows fast for beginners.
+U09,P05,5,Cleans indoor air and thrives in low light rooms.
+U09,P06,5,Thrives in dark corners where other plants fail.
+U09,P07,5,Easy care colorful foliage for low light living rooms.
+U09,P08,5,Pet safe air purifying palm for low light apartments.
+U09,P09,5,Heart shaped leaves grow well in low light with easy watering.
+U09,P10,5,Great air purifier that handles low light offices easily.
+U09,P25,5,Compact low light desk plant with easy watering needs.
+U09,P32,5,Adds vibrant color to low light apartment rooms effortlessly.
+U09,P33,5,Lush tropical look that survives low light corners.
+U09,P36,5,Reliable low light indoor tree for beginners.
+U09,P38,5,Easy watering miniature vine for low light apartment shelves.
+U09,P15,1,Requires intense sunlight and strict watering schedules.
+U09,P17,2,Needs bright direct window light to stay compact.
+U09,P18,2,Etoliated in my low light apartment room.
+U09,P24,1,Not suited for low light indoor apartments at all.
+U09,P37,1,Needs high light and high humidity to survive.
+U10,P17,5,Love having fresh aloe gel in my sunny kitchen window.
+U10,P18,5,Classic jade succulent that thrives on neglect and sunshine.
+U10,P19,5,Adorable rosette succulent for bright sunny desks.
+U10,P20,5,Striped haworthia is super tough and pet safe.
+U10,P24,5,Unique trailing succulent that loves bright window light.
+U10,P30,5,Bulbous trunk stores water for weeks in bright sun.
+U10,P01,4,Succulent like toughness in low light rooms.
+U10,P02,5,Rhizomes store water so you rarely need to water it.
+U10,P34,4,Thick waxy leaves tolerate dry soil between waterings.
+U10,P39,4,Semi succulent leaves hold moisture well for beginners.
+U10,P12,1,Requires constant watering and high humidity unlike succulents.
+U10,P13,1,Too thirsty and sensitive to dry indoor air.
+U10,P26,1,Wilts immediately if you miss a single watering.
+U10,P05,2,Needs much more frequent watering than drought tolerant plants.
+U10,P31,2,Edges crisp up quickly without regular misting.
+U10,P14,4,Easy to care for in a bright apartment once a week.
+U10,P16,4,Tough glossy leaves tolerate occasional dry soil.
+U10,P22,3,Nice palm but needs regular weekly watering.
+U10,P29,4,Easy watering schedule for a busy apartment owner.
+U10,P36,4,Handles dry topsoil well between weekly waterings.
+U11,P03,5,Looks gorgeous cascading from a hanging planter in my apartment.
+U11,P04,5,Cascading spiderettes make an amazing hanging basket display.
+U11,P09,5,Heartleaf vines trail gracefully down from high shelves.
+U11,P12,4,Full arching fronds look stunning in a hanging pot.
+U11,P21,5,Classic trailing ivy for bright apartment windows.
+U11,P24,5,Beaded strands create a living curtain in sunny windows.
+U11,P28,5,Fast growing purple vines look great in hanging planters.
+U11,P34,5,Long waxy vines trail nicely and produce fragrant blooms.
+U11,P38,5,Compact trailing vine perfect for apartment bookshelves.
+U11,P01,4,Great upright contrast next to my hanging plants.
+U11,P02,4,Easy care floor or shelf plant for apartments.
+U11,P14,4,Climbs a moss pole nicely in bright indirect light.
+U11,P25,4,Compact desk plant that pairs well with trailing vines.
+U11,P39,4,Cute tabletop plant with easy weekly watering.
+U11,P15,2,Too tall and finicky for my shelf setup.
+U11,P23,2,Takes too much floor space in a small apartment.
+U11,P37,1,Drops leaves easily if indoor humidity drops.
+U11,P13,3,Pretty leaves but needs a humidifier nearby.
+U11,P06,3,Very hardy low light plant though slow growing.
+U11,P08,4,Soft feathery leaves soften up apartment corners.
+U12,P01,5,Great starter plant for anyone new to indoor gardening.
+U12,P02,5,Cannot mess up watering this tough low light plant.
+U12,P03,5,Super rewarding fast grower for first time plant parents.
+U12,P04,5,Easy weekly watering and safe around curious pets.
+U12,P05,5,Tells you when to water by drooping slightly.
+U12,P07,5,Thrives in low light apartment rooms with minimal effort.
+U12,P08,5,Easy care pet safe palm for apartment beginners.
+U12,P09,5,Forgiving desk plant that handles low light easily.
+U12,P16,5,Sturdy beginner tree that grows steadily indoors.
+U12,P25,5,Perfect small desk plant for low light beginners.
+U12,P28,5,Easiest colorful plant to grow and propagate at home.
+U12,P29,5,Great desk plant for beginners with easy watering.
+U12,P32,5,Low light and easy watering make it stress free.
+U12,P36,5,Very adaptable beginner plant for offices and apartments.
+U12,P39,5,Fun round leaves and super easy care for beginners.
+U12,P15,1,Not recommended for beginners due to strict light needs.
+U12,P37,1,Too temperamental for someone just starting out.
+U12,P13,2,Hard to keep leaf edges pristine without special care.
+U12,P24,2,Easy to overwater if you are a beginner.
+U12,P12,2,Needs too much daily misting for a beginner routine.
+U13,P02,5,Best office desk plant under fluorescent lights.
+U13,P07,5,Adds green life to my cubicle with low light care.
+U13,P09,5,Easy watering vine that drapes nicely on an office shelf.
+U13,P10,5,Tall slender silhouette fits right beside my office desk.
+U13,P11,5,Lucky bamboo brings good vibes to my office desk.
+U13,P20,5,Tiny zebra succulent fits on any crowded office desk.
+U13,P25,5,Compact and low light tolerant for office environments.
+U13,P29,5,Classic office desk tree that needs easy weekly watering.
+U13,P36,5,Thrives in office lighting and tolerates missed waterings.
+U13,P39,5,Cute desk plant that thrives near an office window.
+U13,P40,4,Elegant orchid for a reception or office desk.
+U13,P01,5,Survives long office weekends with zero issues.
+U13,P03,4,Very reliable office plant with easy watering.
+U13,P16,4,Looks great in a modern office corner.
+U13,P12,1,Messy fronds and needs way too much humidity for an office.
+U13,P23,1,Way too large for an office cubicle.
+U13,P26,1,Wilts over the weekend when nobody waters the office.
+U13,P37,1,Drops leaves in dry office air conditioning.
+U13,P15,2,Sensitive to office AC vents and drafts.
+U13,P24,2,Needs direct sunlight that offices rarely have.
+U14,P04,5,Pet safe and cleans the air in my apartment bedroom.
+U14,P06,5,Tough low light plant that is safe for cats and dogs.
+U14,P08,5,Non toxic palm that thrives in low light living rooms.
+U14,P12,4,Pet safe fern for a humid apartment bathroom.
+U14,P13,4,Safe for cats and has stunning patterned foliage.
+U14,P20,5,Pet safe desk succulent with very easy watering.
+U14,P22,5,Large non toxic palm that purifies living room air.
+U14,P25,5,Pet safe low light desk plant for beginners.
+U14,P26,4,Non toxic miniature plant for humid desk terrariums.
+U14,P27,5,Pet safe flowering plant for bright kitchen sills.
+U14,P29,5,Non toxic desk plant that is super easy to care for.
+U14,P30,5,Pet safe drought tolerant plant for sunny windows.
+U14,P31,5,Safe for pets and loves low light apartment rooms.
+U14,P34,5,Pet safe trailing wax plant with easy watering.
+U14,P39,5,Completely non toxic and super popular desk plant.
+U14,P05,1,Toxic to pets so I cannot keep it in my house.
+U14,P33,1,Sap is irritating to pets so I avoid this one.
+U14,P10,2,Can upset pets stomachs if they chew the leaves.
+U14,P16,2,Not pet friendly for households with curious cats.
+U14,P01,3,Great plant but kept on a high shelf away from my dog.
+U15,P01,5,Low light apartment essential with super easy watering.
+U15,P03,5,Grows effortlessly in low light apartments for beginners.
+U15,P05,5,Best air purifier for low light bedrooms and apartments.
+U15,P07,5,Colorful leaves without needing direct apartment sunlight.
+U15,P09,5,Easy watering desk plant that thrives in low light.
+U15,P14,5,Iconic indoor plant for bright indirect apartment spots.
+U15,P16,5,Low maintenance upright plant for apartment living rooms.
+U15,P25,5,Compact low light desk plant with easy watering.
+U15,P28,5,Fast growing hanging plant for apartment windows.
+U15,P31,5,Beautiful low light plant for humid apartment rooms.
+U15,P32,5,Bright pink leaves thrive in low light apartment corners.
+U15,P35,4,Long lasting flowers for apartment tabletops.
+U15,P38,5,Great small trailing plant for low light apartments.
+U15,P39,5,Easy watering desk plant that looks great in apartments.
+U15,P40,4,Blooms reliably on a bright indirect apartment sill.
+U15,P15,2,Too difficult to keep happy in standard apartment light.
+U15,P17,2,Needs more direct outdoor style sun than my apartment gets.
+U15,P23,2,Needs very high light to thrive indoors.
+U15,P24,1,Struggles without intense direct sunlight.
+U15,P37,1,Very hard to maintain vibrant colors indoors.
